@@ -4,7 +4,7 @@ This is meant to be a collection of articles, resources, and links for those in 
 ###Adding Resources
 Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link.
 
-##Articles - Engineering Specific
+##Articles - Tech Leadership Specific
 - [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
@@ -23,6 +23,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Leading Others with Grace](https://www.linkedin.com/pulse/20140504231741-9454814-grace-in-the-workplace) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leaders Live in the Future](https://www.linkedin.com/pulse/20141029222045-9454814-leaders-live-in-the-future) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leadership is Not Sexy](https://www.linkedin.com/pulse/20140602184925-9454814-leadership-is-not-sexy) by [Derek Brown](https://twitter.com/derekbrown)
+- [Mentoring vs. Coaching](https://www.linkedin.com/pulse/20140717215307-2831004-mentoring-vs-coaching) by [Jim Gourgoutis](https://www.linkedin.com/in/yojimg)
 - [Reverse Engineer Everything](https://www.linkedin.com/pulse/20140512000914-9454814-reverse-engineer-everything) by [Derek Brown](https://twitter.com/derekbrown)
 - [What Story Are You Telling?](https://www.linkedin.com/pulse/what-story-you-telling-leader-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 
@@ -36,3 +37,9 @@ Please submit a pull request with the link added to this README, in Markdown syn
 
 ##Slideshows
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)
+
+##Twitter Accounts Worth Following
+- [Jim Brikman](https://twitter.com/brikis98)
+- [Derek Brown](https://twitter.com/derekbrown)
+- [Reid Hoffman](https://twitter.com/reidhoffman)
+- [Wayne Pan](https://twitter.com/waynep)

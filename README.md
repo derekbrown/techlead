@@ -8,6 +8,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
+- [What Technology Should My Startup Use?](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/) by [Matt Aimonetti](https://twitter.com/mattetti)
 
 ##Articles - General Leadership & Management
 - [3 Characteristics of High-Caliber Leaders](https://www.linkedin.com/pulse/20140408205446-9454814-3-characteristics-of-high-caliber-leaders) by [Derek Brown](https://twitter.com/derekbrown)

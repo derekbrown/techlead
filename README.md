@@ -1,4 +1,4 @@
-#Tech Leadership & Engineering Management
+#Tech Leadership
 This is meant to be a collection of articles, resources, and links for those in technical leadership or engineering management roles.
 
 ###Adding Resources

@@ -5,9 +5,12 @@ This is meant to be a collection of articles, resources, and links for those in 
 Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link.
 
 ##Articles - Tech Leadership Specific
-- [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
+- [Accidental Leadership](https://medium.com/on-management/accidental-leadership-1083f5d390cc) by [Sam Schillace](https://twitter.com/sschillace)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
+- [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
+- [Lessons Learned in Engineering & Management](https://medium.com/@gregbayer/lessons-learned-in-engineering-management-1e9c84c0245e) by [Greg Bayer](https://twitter.com/gregbayer)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
+- [Starting Up Security](https://medium.com/@magoo/starting-up-security-87839ab21bae) by [Ryan McGeehan](https://twitter.com/magoo)
 - [What Technology Should My Startup Use?](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/) by [Matt Aimonetti](https://twitter.com/mattetti)
 
 ##Articles - General Leadership & Management
@@ -40,7 +43,8 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)
 
 ##Twitter Accounts Worth Following
+- [Greg Bayer](https://twitter.com/gregbayer)
 - [Jim Brikman](https://twitter.com/brikis98)
 - [Derek Brown](https://twitter.com/derekbrown)
-- [Reid Hoffman](https://twitter.com/reidhoffman)
+- [Sam Schillace](https://twitter.com/sschillace)
 - [Wayne Pan](https://twitter.com/waynep)

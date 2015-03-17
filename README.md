@@ -9,8 +9,11 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
 - [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
 - [Lessons Learned in Engineering & Management](https://medium.com/@gregbayer/lessons-learned-in-engineering-management-1e9c84c0245e) by [Greg Bayer](https://twitter.com/gregbayer)
+- [Our Management Culture at Asana](https://blog.asana.com/2013/09/management-at-asana/) by [Dustin Moskovitz](http://twitter.com/moskov)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Starting Up Security](https://medium.com/@magoo/starting-up-security-87839ab21bae) by [Ryan McGeehan](https://twitter.com/magoo)
+- [This is What Impactful Engineering Leadership Looks Like](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/) from [First Round](http://firstround.com/)
+- [What Defines an Engineering-Driven Culture](https://www.linkedin.com/pulse/20131204212558-56725-what-defines-an-engineering-driven-culture) from [Andy Rachleff](https://twitter.com/arachleff)
 - [What Technology Should My Startup Use?](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/) by [Matt Aimonetti](https://twitter.com/mattetti)
 
 ##Articles - General Leadership & Management

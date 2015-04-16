@@ -24,6 +24,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Creating a Culture of Joy](https://www.linkedin.com/pulse/20140424034837-9454814-creating-a-culture-of-joy) by [Derek Brown](https://twitter.com/derekbrown)
 - [Developing Your Team Through Effective One on Ones](https://www.linkedin.com/pulse/20141014225751-9454814-effective-one-on-ones) by [Derek Brown](https://twitter.com/derekbrown)
 - [Focus: The Secret to Getting Things Done](https://www.linkedin.com/pulse/20140612175658-9454814-f-o-c-u-s-the-secret-to-getting-things-done) by [Derek Brown](https://twitter.com/derekbrown)
+- [Goldilocks Management](https://medium.com/bridge-collection/goldilocks-management-c01c6846e06e) by [Dustin Moskovitz](https://twitter.com/moskov)
 - [How Leaders Change an Organization's Culture](https://www.linkedin.com/pulse/20140610181306-9454814-culture-flows-downstream-how-leaders-change-an-organization-s-culture) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leading from the Trenches](https://www.linkedin.com/pulse/leading-from-trenches-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leading Healthy Teams](https://www.linkedin.com/pulse/20141105152742-9454814-leading-healthy-teams) by [Derek Brown](https://twitter.com/derekbrown)

@@ -23,6 +23,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [A Process for Developing Leaders](https://www.linkedin.com/pulse/20140508001449-9454814-a-process-for-developing-leaders) by [Derek Brown](https://twitter.com/derekbrown)
 - [Building a Culture of Integrity](https://www.linkedin.com/pulse/20140501050656-9454814-building-a-culture-of-integrity) by [Derek Brown](https://twitter.com/derekbrown)
 - [Building a Culture of Trust](https://www.linkedin.com/pulse/20140427213220-9454814-building-a-culture-of-trust) by [Derek Brown](https://twitter.com/derekbrown)
+- [Building Great Teams like the Pros: Recruiting and Developing Talent](https://www.linkedin.com/pulse/building-great-teams-like-pros-recruiting-developing-talent-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Creating a Culture of Joy](https://www.linkedin.com/pulse/20140424034837-9454814-creating-a-culture-of-joy) by [Derek Brown](https://twitter.com/derekbrown)
 - [Developing Your Team Through Effective One on Ones](https://www.linkedin.com/pulse/20141014225751-9454814-effective-one-on-ones) by [Derek Brown](https://twitter.com/derekbrown)
 - [Focus: The Secret to Getting Things Done](https://www.linkedin.com/pulse/20140612175658-9454814-f-o-c-u-s-the-secret-to-getting-things-done) by [Derek Brown](https://twitter.com/derekbrown)
@@ -35,6 +36,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Leadership is Not Sexy](https://www.linkedin.com/pulse/20140602184925-9454814-leadership-is-not-sexy) by [Derek Brown](https://twitter.com/derekbrown)
 - [Mentoring vs. Coaching](https://www.linkedin.com/pulse/20140717215307-2831004-mentoring-vs-coaching) by [Jim Gourgoutis](https://www.linkedin.com/in/yojimg)
 - [Reverse Engineer Everything](https://www.linkedin.com/pulse/20140512000914-9454814-reverse-engineer-everything) by [Derek Brown](https://twitter.com/derekbrown)
+- [Stop Wasting Everyone's Time: A SANE Meeting Policy](https://www.linkedin.com/pulse/stop-wasting-everyones-time-sane-meeting-policy-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [What Story Are You Telling?](https://www.linkedin.com/pulse/what-story-you-telling-leader-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 
 ##Books

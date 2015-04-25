@@ -12,8 +12,10 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Our Management Culture at Asana](https://blog.asana.com/2013/09/management-at-asana/) by [Dustin Moskovitz](http://twitter.com/moskov)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Starting Up Security](https://medium.com/@magoo/starting-up-security-87839ab21bae) by [Ryan McGeehan](https://twitter.com/magoo)
+- [The Full Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) by [Chris Messina](https://twitter.com/chrismessina)
 - [This is What Impactful Engineering Leadership Looks Like](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/) from [First Round](http://firstround.com/)
 - [What Defines an Engineering-Driven Culture](https://www.linkedin.com/pulse/20131204212558-56725-what-defines-an-engineering-driven-culture) from [Andy Rachleff](https://twitter.com/arachleff)
+- [What I Learned Scaling Engineering Teams Through Euphoria and Horror](http://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/) from [Tim Howes](https://www.linkedin.com/pub/tim-howes/0/9a/20b)
 - [What Technology Should My Startup Use?](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/) by [Matt Aimonetti](https://twitter.com/mattetti)
 
 ##Articles - General Leadership & Management

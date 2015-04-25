@@ -54,5 +54,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Greg Bayer](https://twitter.com/gregbayer)
 - [Jim Brikman](https://twitter.com/brikis98)
 - [Derek Brown](https://twitter.com/derekbrown)
+- [David Byttow](https://twitter.com/davidbyttow)
+- [Dustin Moskovitz](https://twitter.com/moskov)
 - [Sam Schillace](https://twitter.com/sschillace)
 - [Wayne Pan](https://twitter.com/waynep)

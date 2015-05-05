@@ -52,6 +52,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)
 
 ##Twitter Accounts Worth Following
+- [Sam Altman](https://twitter.com/sama)
 - [Greg Bayer](https://twitter.com/gregbayer)
 - [Jim Brikman](https://twitter.com/brikis98)
 - [Derek Brown](https://twitter.com/derekbrown)

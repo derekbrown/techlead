@@ -46,6 +46,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 
 ##Other Collections
 - [Engineering Leadership on Medium](https://medium.com/engineering-leadership)
+- [Engineering Management on Quora](https://www.quora.com/Engineering-Management)
 
 ##Slideshows
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)

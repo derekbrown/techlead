@@ -2,7 +2,7 @@
 This is meant to be a collection of articles, resources, and links for those in technical leadership or engineering management roles.
 
 ###Adding Resources
-Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link.
+Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link. Feel free to add your own name as the recommender.
 
 ##Articles - Tech Leadership Specific
 - [Accidental Leadership](https://medium.com/on-management/accidental-leadership-1083f5d390cc) by [Sam Schillace](https://twitter.com/sschillace)
@@ -41,8 +41,11 @@ Please submit a pull request with the link added to this README, in Markdown syn
 
 ##Books
 - [Hello, Startup](http://www.hello-startup.net/) by [Jim Brikman](https://twitter.com/brikis98/)
+- [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440) by [Brian W. Fitzpatrick](https://twitter.com/therealfitz) and [Ben Collins-Sussman](https://twitter.com/sussman) recommended by [Tim Lantz](https://www.linkedin.com/in/tslantz)
 - [The 21 Irrefutable Laws of Leadership](http://www.amazon.com/gp/product/1480554030/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1480554030&linkCode=as2&tag=derekbrown-20&linkId=XKGYTNJTVCE3N7UV) by [John Maxwell](https://twitter.com/johncmaxwell)
+- [The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact](http://www.amazon.com/The-Effective-Engineer-Engineering-Disproportionate/dp/0996128107) by [Edmond Lau](https://twitter.com/edmondlau) recommended by [Vladimir Novakovski](https://twitter.com/vnovakovski)
 - [The World's Most Powerful Leadership Principle: How to Become a Servant Leader](http://www.amazon.com/gp/product/140005334X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=140005334X&linkCode=as2&tag=derekbrown-20&linkId=5GE34WEYF5UMQYSR) by James Hunter
+- [Work Rules]() by [Laszlo Bock](https://twitter.com/laszlobock2718) recommended by [Davide Alessio](https://www.linkedin.com/in/dalessio)
 
 ##Other Collections
 - [Engineering Leadership on Medium](https://medium.com/engineering-leadership)
@@ -54,6 +57,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 ##Twitter Accounts Worth Following
 - [Sam Altman](https://twitter.com/sama)
 - [Greg Bayer](https://twitter.com/gregbayer)
+- [Laszlo Bock](https://twitter.com/laszlobock2718)
 - [Jim Brikman](https://twitter.com/brikis98)
 - [Derek Brown](https://twitter.com/derekbrown)
 - [David Byttow](https://twitter.com/davidbyttow)

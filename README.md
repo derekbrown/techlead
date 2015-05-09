@@ -1,5 +1,5 @@
 #Tech Leadership
-This is meant to be a collection of articles, resources, and links for those in technical leadership or engineering management roles.
+This is meant to be a collection of articles, resources, and links for those in technical leadership or engineering management roles. It's intended that the global community of engineering leaders contribute resources here for one another's benefit.
 
 ###Adding Resources
 Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link. Feel free to add your own name as the recommender.

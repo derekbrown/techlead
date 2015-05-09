@@ -8,6 +8,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Accidental Leadership](https://medium.com/on-management/accidental-leadership-1083f5d390cc) by [Sam Schillace](https://twitter.com/sschillace)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
 - [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
+- [How Zenefits Just Lost an Engineer](https://medium.com/@oscargodson/how-zenefits-just-lost-an-engineer-3f09898dbcf9) by [Oscar Godson](https://twitter.com/oscargodson)
 - [Lessons Learned in Engineering & Management](https://medium.com/@gregbayer/lessons-learned-in-engineering-management-1e9c84c0245e) by [Greg Bayer](https://twitter.com/gregbayer)
 - [Our Management Culture at Asana](https://blog.asana.com/2013/09/management-at-asana/) by [Dustin Moskovitz](http://twitter.com/moskov)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)

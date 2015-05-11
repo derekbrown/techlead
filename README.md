@@ -48,6 +48,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [The Six Deadly Sins of Leadership](https://www.linkedin.com/pulse/20130327154206-86541065-the-six-deadly-sins-of-leadership) by [Jack Welch](https://twitter.com/jack_welch)
 - [Three Things I've Learned From Warren Buffett](https://www.linkedin.com/pulse/20130612065727-251749025-three-things-i-ve-learned-from-warren-buffett) by [Bill Gates](https://twitter.com/billgates)
 - [What Story Are You Telling?](https://www.linkedin.com/pulse/what-story-you-telling-leader-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
+- [Worker, Interrupted: The Cost of Task Switching](http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching) by [Kermit Pattison](http://www.fastcompany.com/user/kermit-pattison)
 
 ##Books
 - [Hello, Startup](http://www.hello-startup.net/) by [Jim Brikman](https://twitter.com/brikis98/)

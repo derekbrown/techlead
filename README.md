@@ -5,6 +5,7 @@ This is meant to be a collection of articles, resources, and links for those in 
 Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link. Feel free to add your own name as the recommender.
 
 ##Articles - Tech Leadership Specific
+- [#Define CTO](http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) by [Greg Brockman](https://twitter.com/thegdb)
 - [Accidental Leadership](https://medium.com/on-management/accidental-leadership-1083f5d390cc) by [Sam Schillace](https://twitter.com/sschillace)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
 - [Effective Technical Leadership](https://medium.com/@davidbyttow/effective-technical-leadership-b193a544e771) by [David Byttow](https://twitter.com/davidbyttow/)
@@ -29,6 +30,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Building a Culture of Trust](https://www.linkedin.com/pulse/20140427213220-9454814-building-a-culture-of-trust) by [Derek Brown](https://twitter.com/derekbrown)
 - [Building Great Teams like the Pros: Recruiting and Developing Talent](https://www.linkedin.com/pulse/building-great-teams-like-pros-recruiting-developing-talent-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Creating a Culture of Joy](https://www.linkedin.com/pulse/20140424034837-9454814-creating-a-culture-of-joy) by [Derek Brown](https://twitter.com/derekbrown)
+- [Criticism and Ineffective Feedback](https://www.kateheddleston.com/blog/criticism-and-ineffective-feedback) by [Kate Heddleston](https://twitter.com/heddle317)
 - [Developing Your Team Through Effective One on Ones](https://www.linkedin.com/pulse/20141014225751-9454814-effective-one-on-ones) by [Derek Brown](https://twitter.com/derekbrown)
 - [Focus: The Secret to Getting Things Done](https://www.linkedin.com/pulse/20140612175658-9454814-f-o-c-u-s-the-secret-to-getting-things-done) by [Derek Brown](https://twitter.com/derekbrown)
 - [Goldilocks Management](https://medium.com/bridge-collection/goldilocks-management-c01c6846e06e) by [Dustin Moskovitz](https://twitter.com/moskov)
@@ -40,11 +42,13 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Leading Others with Grace](https://www.linkedin.com/pulse/20140504231741-9454814-grace-in-the-workplace) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leaders Live in the Future](https://www.linkedin.com/pulse/20141029222045-9454814-leaders-live-in-the-future) by [Derek Brown](https://twitter.com/derekbrown)
 - [Leadership is Not Sexy](https://www.linkedin.com/pulse/20140602184925-9454814-leadership-is-not-sexy) by [Derek Brown](https://twitter.com/derekbrown)
+- [Management Cliches That Work](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) by [Steven Sinofsky](https://twitter.com/stevesi)
 - [Mentoring vs. Coaching](https://www.linkedin.com/pulse/20140717215307-2831004-mentoring-vs-coaching) by [Jim Gourgoutis](https://www.linkedin.com/in/yojimg)
 - [Reverse Engineer Everything](https://www.linkedin.com/pulse/20140512000914-9454814-reverse-engineer-everything) by [Derek Brown](https://twitter.com/derekbrown)
 - [Stop Wasting Everyone's Time: A SANE Meeting Policy](https://www.linkedin.com/pulse/stop-wasting-everyones-time-sane-meeting-policy-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Ten Stupid Rules That Drive Great Employees Away](https://www.linkedin.com/pulse/20141114143018-52594-ten-stupid-rules-that-drive-great-employees-away) by [Liz Ryan](https://twitter.com/humanworkplace)
 - [The Difference Between Managers and Leaders](https://www.linkedin.com/pulse/20130529150715-5799319-the-difference-between-managers-and-leaders) by [Ilya Pozin](https://twitter.com/ilyaneversleeps)
+- [The One Minute Test](https://medium.com/@jmspool/the-one-minute-test-68738cb111ea) by [Jared Spool](https://twitter.com/jmspool)
 - [The Six Deadly Sins of Leadership](https://www.linkedin.com/pulse/20130327154206-86541065-the-six-deadly-sins-of-leadership) by [Jack Welch](https://twitter.com/jack_welch)
 - [Three Things I've Learned From Warren Buffett](https://www.linkedin.com/pulse/20130612065727-251749025-three-things-i-ve-learned-from-warren-buffett) by [Bill Gates](https://twitter.com/billgates)
 - [What Story Are You Telling?](https://www.linkedin.com/pulse/what-story-you-telling-leader-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
@@ -62,6 +66,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Engineering Management on Quora](https://www.quora.com/Engineering-Management)
 
 ##Slideshows
+- [Netfix Culture](http://www.slideshare.net/reed2001/culture-2009) by [Netflix](https://twitter.com/netflix)
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)
 
 ##Twitter Accounts Worth Following
@@ -69,6 +74,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Greg Bayer](https://twitter.com/gregbayer)
 - [Laszlo Bock](https://twitter.com/laszlobock2718)
 - [Jim Brikman](https://twitter.com/brikis98)
+- [Greg Brockman](https://twitter.com/thegdb)
 - [Derek Brown](https://twitter.com/derekbrown)
 - [David Byttow](https://twitter.com/davidbyttow)
 - [Dustin Moskovitz](https://twitter.com/moskov)

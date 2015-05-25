@@ -66,6 +66,9 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Engineering Leadership on Medium](https://medium.com/engineering-leadership)
 - [Engineering Management on Quora](https://www.quora.com/Engineering-Management)
 
+##PDFs
+- [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf) by Robert L. Glass
+
 ##Slideshows
 - [Netfix Culture](http://www.slideshare.net/reed2001/culture-2009) by [Netflix](https://twitter.com/netflix)
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)

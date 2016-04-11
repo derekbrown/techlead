@@ -13,6 +13,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [Lessons Learned in Engineering & Management](https://medium.com/@gregbayer/lessons-learned-in-engineering-management-1e9c84c0245e) by [Greg Bayer](https://twitter.com/gregbayer)
 - [Our Management Culture at Asana](https://blog.asana.com/2013/09/management-at-asana/) by [Dustin Moskovitz](http://twitter.com/moskov)
 - [People-Centered Engineering](https://www.linkedin.com/pulse/people-centered-engineering-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
+- [Performance Culture](http://joeduffyblog.com/2016/04/10/performance-culture/) by [Joe Duffy](https://twitter.com/xjoeduffyx)
 - [Starting Up Security](https://medium.com/@magoo/starting-up-security-87839ab21bae) by [Ryan McGeehan](https://twitter.com/magoo)
 - [The Full Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) by [Chris Messina](https://twitter.com/chrismessina)
 - [This is What Impactful Engineering Leadership Looks Like](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/) from [First Round](http://firstround.com/)

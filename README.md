@@ -1,10 +1,10 @@
-#Tech Leadership
+# Tech Leadership
 This is meant to be a collection of articles, resources, and links for those in technical leadership or engineering management roles. It's intended that the global community of engineering leaders contribute resources here for one another's benefit.
 
-###Adding Resources
+### Adding Resources
 Please submit a pull request with the link added to this README, in Markdown syntax, alphabetized in the appropriate category. If your resource doesn't fit into a category, feel free to include a new one in your request. When possible, include the author's Twitter or LinkedIn link. Feel free to add your own name as the recommender.
 
-##Articles - Tech Leadership Specific
+## Articles - Tech Leadership Specific
 - [#Define CTO](http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) by [Greg Brockman](https://twitter.com/thegdb)
 - [Accidental Leadership](https://medium.com/on-management/accidental-leadership-1083f5d390cc) by [Sam Schillace](https://twitter.com/sschillace)
 - [Defining Roles](https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3) by [Sanford Dickert](https://twitter.com/sanford)
@@ -21,7 +21,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [What I Learned Scaling Engineering Teams Through Euphoria and Horror](http://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/) from [Tim Howes](https://www.linkedin.com/pub/tim-howes/0/9a/20b)
 - [What Technology Should My Startup Use?](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/) by [Matt Aimonetti](https://twitter.com/mattetti)
 
-##Articles - General Leadership & Management
+## Articles - General Leadership & Management
 - [3 Characteristics of High-Caliber Leaders](https://www.linkedin.com/pulse/20140408205446-9454814-3-characteristics-of-high-caliber-leaders) by [Derek Brown](https://twitter.com/derekbrown)
 - [8 Qualities That Make Great Bosses Unforgettable](https://www.linkedin.com/pulse/20140826123205-20017018-8-qualities-that-make-great-bosses-unforgettable) by [Jeff Haden](https://twitter.com/jeff_haden)
 - [10 Sentences Good Managers Never Say - Ever](https://www.linkedin.com/pulse/10-sentences-good-managers-never-say-ever-bernard-marr) by [Bernard Marr](https://twitter.com/bernardmarr)
@@ -55,7 +55,7 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [What Story Are You Telling?](https://www.linkedin.com/pulse/what-story-you-telling-leader-derek-brown) by [Derek Brown](https://twitter.com/derekbrown)
 - [Worker, Interrupted: The Cost of Task Switching](http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching) by [Kermit Pattison](http://www.fastcompany.com/user/kermit-pattison)
 
-##Books
+## Books
 - [Hello, Startup](http://www.hello-startup.net/) by [Jim Brikman](https://twitter.com/brikis98/)
 - [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440) by [Brian W. Fitzpatrick](https://twitter.com/therealfitz) and [Ben Collins-Sussman](https://twitter.com/sussman) recommended by [Tim Lantz](https://www.linkedin.com/in/tslantz)
 - [The 21 Irrefutable Laws of Leadership](http://www.amazon.com/gp/product/1480554030/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1480554030&linkCode=as2&tag=derekbrown-20&linkId=XKGYTNJTVCE3N7UV) by [John Maxwell](https://twitter.com/johncmaxwell)
@@ -63,18 +63,18 @@ Please submit a pull request with the link added to this README, in Markdown syn
 - [The World's Most Powerful Leadership Principle: How to Become a Servant Leader](http://www.amazon.com/gp/product/140005334X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=140005334X&linkCode=as2&tag=derekbrown-20&linkId=5GE34WEYF5UMQYSR) by James Hunter
 - [Work Rules]() by [Laszlo Bock](https://twitter.com/laszlobock2718) recommended by [Davide Alessio](https://www.linkedin.com/in/dalessio)
 
-##Other Collections
+## Other Collections
 - [Engineering Leadership on Medium](https://medium.com/engineering-leadership)
 - [Engineering Management on Quora](https://www.quora.com/Engineering-Management)
 
-##PDFs
+## PDFs
 - [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf) by Robert L. Glass
 
-##Slideshows
+## Slideshows
 - [Netfix Culture](http://www.slideshare.net/reed2001/culture-2009) by [Netflix](https://twitter.com/netflix)
 - [Startup DNA](http://www.slideshare.net/brikis98/startup-dna) by [Jim Brikman](https://twitter.com/brikis98/)
 
-##Twitter Accounts Worth Following
+## Twitter Accounts Worth Following
 - [Sam Altman](https://twitter.com/sama)
 - [Greg Bayer](https://twitter.com/gregbayer)
 - [Laszlo Bock](https://twitter.com/laszlobock2718)
